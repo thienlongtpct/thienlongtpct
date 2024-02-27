@@ -12,7 +12,6 @@ Currently studying at ITMO University.
 
 ### Algorithms
 
-[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/thienlongtpct)](https://codeforces.com/profile/thienlongtpct)
 [![AtCoder Badge](https://cp-logo.vercel.app/atcoder/thienlongtpct)](https://codeforces.com/profile/thienlongtpct)
 [![CodeChef Badge](https://cp-logo.vercel.app/codechef/thienlong2000)](https://codeforces.com/profile/thienlongtpct)
 
