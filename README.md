@@ -4,9 +4,9 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/long.vominhthien)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thienlongtpct)
 
-Hello everyone. I'm Long, a Full Stack developer.
+Hello everyone. I'm Long, a Cybersecurity Researcher.
 
-Currently studying at ITMO University. 
+Currently working in Le Quy Don Technical University. 
 
 <hr/>
 
